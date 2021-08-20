@@ -1,0 +1,26 @@
+
+.head{
+    padding: 20px;
+    align-items: center;
+    max-width: 600px;
+    margin: 0 auto;
+    color:black;
+    border-bottom: 3px solid darkturquoise;
+    border-top: 3px solid darkturquoise;
+}
+
+.food-info > h2{
+    font-size: 25px;
+    color: brown;
+    margin-bottom: 10px;
+}
+.container{
+    align-items: center;
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 20px;
+}
+
+.food-info > p {
+    border: 1px solid rgb(0, 255, 149);
+}
